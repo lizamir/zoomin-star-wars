@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/zoomin-star-wars/static/css/main.44b23230.chunk.css",
+    "main.js": "/zoomin-star-wars/static/js/main.9349b802.chunk.js",
+    "main.js.map": "/zoomin-star-wars/static/js/main.9349b802.chunk.js.map",
+    "runtime-main.js": "/zoomin-star-wars/static/js/runtime-main.055c0384.js",
+    "runtime-main.js.map": "/zoomin-star-wars/static/js/runtime-main.055c0384.js.map",
+    "static/js/2.d90a1473.chunk.js": "/zoomin-star-wars/static/js/2.d90a1473.chunk.js",
+    "static/js/2.d90a1473.chunk.js.map": "/zoomin-star-wars/static/js/2.d90a1473.chunk.js.map",
+    "static/js/3.1230ac72.chunk.js": "/zoomin-star-wars/static/js/3.1230ac72.chunk.js",
+    "static/js/3.1230ac72.chunk.js.map": "/zoomin-star-wars/static/js/3.1230ac72.chunk.js.map",
+    "index.html": "/zoomin-star-wars/index.html",
+    "static/css/main.44b23230.chunk.css.map": "/zoomin-star-wars/static/css/main.44b23230.chunk.css.map",
+    "static/js/2.d90a1473.chunk.js.LICENSE.txt": "/zoomin-star-wars/static/js/2.d90a1473.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/zoomin-star-wars/static/media/Segoe-UI.45472284.ttf",
+    "static/media/Home.scss": "/zoomin-star-wars/static/media/bgc.54488fba.png",
+    "static/media/load.94825431.svg": "/zoomin-star-wars/static/media/load.94825431.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.055c0384.js",
+    "static/js/2.d90a1473.chunk.js",
+    "static/css/main.44b23230.chunk.css",
+    "static/js/main.9349b802.chunk.js"
+  ]
+}
